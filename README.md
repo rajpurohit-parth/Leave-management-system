@@ -1,5 +1,7 @@
 Run this commands before use application
 
+clone this project and extract file
+
 composer install
 npm install
 npm run dev
